@@ -27,3 +27,5 @@ html{scroll-behavior:smooth}button,a,input,select{transition:background-color .2
 .brand-mark.brand-logo img{width:100%;height:100%;object-fit:contain}
 .hero-visual img{object-position:50% 45%}
 .gallery-slide img{display:block}
+
+.account-link{font-size:13px;font-weight:650;color:var(--gold2);text-decoration:none;padding:10px 4px;transition:color .25s}.account-link:hover{color:var(--gold)}.top-actions{margin-left:auto}.hero-service-chip{cursor:default}.closing h2{margin-bottom:0}
