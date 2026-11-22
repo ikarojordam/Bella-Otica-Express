@@ -1,0 +1,8 @@
+{
+  "name":"do-boy-barbearia-netlify",
+  "version":"2.0.0",
+  "private":true,
+  "scripts":{"dev":"netlify dev","start":"netlify dev"},
+  "dependencies":{"@supabase/supabase-js":"^2.49.0"},
+  "engines":{"node":">=20"}
+}
